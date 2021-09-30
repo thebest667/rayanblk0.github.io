@@ -1,0 +1,29 @@
+#title {
+  text-align: center;
+}
+#name {
+  font-size: large;
+}
+#nume {
+  font-size: large;
+}
+#lieux {
+  font-size: large;
+}
+#email {
+  font-size: large;
+}
+#start {
+  margin-left: 100px;
+}
+#image {
+  border-radius: 50%;
+  margin-left: 1700px;
+  height: 150px;
+  width: 150px;
+  top: 10px;
+  position: absolute;
+}
+body {
+  background-color: rgba(0, 68, 255, 0.233);
+  border: 2px solid;
