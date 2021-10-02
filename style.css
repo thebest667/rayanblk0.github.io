@@ -23,8 +23,6 @@
   width: 150px;
   top: 10px;
   position: absolute;
-  right: 60px;
-
 }
 body {
   background-color: rgb(255, 255, 255);
@@ -44,13 +42,6 @@ body {
 #namee {
   color: pink;
 }
-
 #ktiba {
   font-size: 30px;
-}
-#conclusion {
-  padding-left: 50px;
-}
-#ktibabrk {
-  text-align: center;
 }
